@@ -1,0 +1,40 @@
+{
+  "year": "2025",
+  "unit": "RMB million unless otherwise stated",
+  "source": "EV-FinAgent verified extraction from the three uploaded 2025 annual reports",
+  "companies": [
+    {
+      "company": "理想汽车",
+      "revenue": 112312.511,
+      "vehicle_delivery": 406343,
+      "vehicle_margin": 0.178956432649595,
+      "gross_margin": 0.18684523935182965,
+      "rd_expense": 11314.949,
+      "cash_balance": 101200.0,
+      "operating_cash_flow": -8611.397,
+      "net_loss": -1139.428
+    },
+    {
+      "company": "蔚来汽车",
+      "revenue": 87487.51,
+      "vehicle_delivery": 326028,
+      "vehicle_margin": 0.146,
+      "gross_margin": 0.136,
+      "rd_expense": 10604.993,
+      "cash_balance": 45864.2,
+      "operating_cash_flow": 2992.612,
+      "net_loss": 14942.601
+    },
+    {
+      "company": "小鹏汽车",
+      "revenue": 76719.742,
+      "vehicle_delivery": 429445,
+      "vehicle_margin": 0.128,
+      "gross_margin": 0.189,
+      "rd_expense": 9489.979,
+      "cash_balance": 17329.612,
+      "operating_cash_flow": 8258.529,
+      "net_loss": 1139.46
+    }
+  ]
+}
